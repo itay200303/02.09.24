@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/09d75d95-9af0-4eae-960d-a4de35be385b)# 02.09.24
-HM2
+
+HM2[HM2 01.09.24.pptx](https://github.com/user-attachments/files/16840837/HM2.01.09.24.pptx)
+
 
 #first answer
 x : int = int(input('x is :'))
