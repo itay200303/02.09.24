@@ -1,6 +1,11 @@
+![image](https://github.com/user-attachments/assets/ae4328d2-3bff-4711-916d-fd3a6f15e03a)
+![image](https://github.com/user-attachments/assets/90e2f4b7-5d9d-4f9c-85fc-b54ecb1e7fbb)
+![image](https://github.com/user-attachments/assets/4dd2bff4-bd8d-42a3-9428-e78eed1bd061)
+![image](https://github.com/user-attachments/assets/c5f15965-2303-4a20-b730-b06225cee9f1)
+![image](https://github.com/user-attachments/assets/dd6f5493-09a3-4258-90f9-88dbc978c3c0)
+![image](https://github.com/user-attachments/assets/0acae08c-29b4-4c99-8d2a-012159d83645)
 
-HM2[HM2 01.09.24.pptx](https://github.com/user-attachments/files/16840837/HM2.01.09.24.pptx)
-
+HM2
 
 #first answer
 x : int = int(input('x is :'))
